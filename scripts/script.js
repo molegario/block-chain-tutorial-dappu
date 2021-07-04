@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable no-undef */
 const ContractName = artifacts.require("ContractName")
 
 module.exports = async function(callback) {
